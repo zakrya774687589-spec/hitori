@@ -93,4 +93,43 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 
 | [![Nazedev](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![Zaynn](https://github.com/ZaynRcK.png?size=100)](https://github.com/ZaynRcK) | [![Dani](https://github.com/nazedev.png?size=100)](https://github.com/nazedev) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
 | --- | --- | --- | --- |
-| [NazeDev](https://github.com/nazedev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeySockets) |
+
+| [NazeDev](https://github.com/nazedev) | [Zaynn](https://github.com/ZaynRcK) | [Dani](https://github.com/dani) | [WhiskeySockets](https://github.com/WhiskeyS+967 714 360 398
+ 
+
+
+
+apt update
+
+apt upgrade
+
+pkg update && pkg upgrade
+
+pkg install bash
+
+pkg install libwebp
+
+pkg install git -y
+
+pkg install nodejs -y
+
+pkg install ffmpeg -y
+
+pkg install wget
+
+pkg install yarn
+
+pkg install imagemagick -y
+
+git clone https://github.com/AYUSH-PANDEY023/Maria-Md
+
+cd Maria-Md
+
+rm -rf session
+
+yarn install
+
+npm start
+
+
+
